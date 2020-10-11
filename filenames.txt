@@ -1,0 +1,10 @@
+portfolioapprox is tex files
+portfolioapprox1 is code for first question
+portfolioapprox2 is code for first part of second question (only tested .5 .6 .7 .8 .9)
+unifgroupresults is code for second part of second question, first set of rvs with 0.00 to 1.00 coefficients
+correlated is code for third part of second question, second set of rvs (uncorrelated)
+
+
+results1 contains results for first question 
+results2 is for first + second part of second question
+results3 are for third part of second question
